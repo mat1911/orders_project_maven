@@ -1,0 +1,382 @@
+[
+  {
+    "customer": {
+      "name": "KRZYSZTOF",
+      "surname": "KOWAL",
+      "age": 20,
+      "email": "bfszr@gmail.com"
+    },
+    "product": {
+      "name": "PROCESOR",
+      "price": 2034,
+      "category": "B"
+    },
+    "quantity": 3,
+    "orderDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 30
+    }
+  },
+  {
+    "customer": {
+      "name": "MACIEJ",
+      "surname": "STACH",
+      "age": 46,
+      "email": "mc@wp.pl"
+    },
+    "product": {
+      "name": "KARTA GRAFICZNA",
+      "price": 1877,
+      "category": "A"
+    },
+    "quantity": 1,
+    "orderDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "customer": {
+      "name": "AGATA",
+      "surname": "STACH",
+      "age": 47,
+      "email": "yb@onet.pl"
+    },
+    "product": {
+      "name": "PROCESOR",
+      "price": 1876,
+      "category": "B"
+    },
+    "quantity": 3,
+    "orderDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 18
+    }
+  },
+  {
+    "customer": {
+      "name": "PAWEL",
+      "surname": "GENIUSZ",
+      "age": 68,
+      "email": "jg@o2.pl"
+    },
+    "product": {
+      "name": "TV",
+      "price": 927,
+      "category": "A"
+    },
+    "quantity": 1,
+    "orderDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 29
+    }
+  },
+  {
+    "customer": {
+      "name": "PAWEL",
+      "surname": "LEM",
+      "age": 50,
+      "email": "uiz@wp.pl"
+    },
+    "product": {
+      "name": "KAMERA",
+      "price": 361,
+      "category": "B"
+    },
+    "quantity": 3,
+    "orderDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 20
+    }
+  },
+  {
+    "customer": {
+      "name": "DOROTA",
+      "surname": "NOWAK",
+      "age": 64,
+      "email": "fffya@interia.pl"
+    },
+    "product": {
+      "name": "KARTA GRAFICZNA",
+      "price": 1391,
+      "category": "C"
+    },
+    "quantity": 1,
+    "orderDate": {
+      "year": 2019,
+      "month": 8,
+      "day": 25
+    }
+  },
+  {
+    "customer": {
+      "name": "ANNA",
+      "surname": "KOLOS",
+      "age": 43,
+      "email": "tkc@gmail.com"
+    },
+    "product": {
+      "name": "MONITOR",
+      "price": 2141,
+      "category": "C"
+    },
+    "quantity": 2,
+    "orderDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 21
+    }
+  },
+  {
+    "customer": {
+      "name": "MATEUSZ",
+      "surname": "GOLABEK",
+      "age": 57,
+      "email": "snum@o2.pl"
+    },
+    "product": {
+      "name": "MIKROFON",
+      "price": 1982,
+      "category": "A"
+    },
+    "quantity": 3,
+    "orderDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "customer": {
+      "name": "MACIEJ",
+      "surname": "KOWAL",
+      "age": 51,
+      "email": "cagti@interia.pl"
+    },
+    "product": {
+      "name": "PROCESOR",
+      "price": 2363,
+      "category": "C"
+    },
+    "quantity": 2,
+    "orderDate": {
+      "year": 2019,
+      "month": 8,
+      "day": 30
+    }
+  },
+  {
+    "customer": {
+      "name": "RADOSLAW",
+      "surname": "MIKTUS",
+      "age": 36,
+      "email": "fx@interia.pl"
+    },
+    "product": {
+      "name": "RADIO",
+      "price": 323,
+      "category": "B"
+    },
+    "quantity": 2,
+    "orderDate": {
+      "year": 2019,
+      "month": 8,
+      "day": 6
+    }
+  },
+  {
+    "customer": {
+      "name": "MACIEJ",
+      "surname": "STACH",
+      "age": 66,
+      "email": "qdhk@onet.pl"
+    },
+    "product": {
+      "name": "PC",
+      "price": 798,
+      "category": "B"
+    },
+    "quantity": 3,
+    "orderDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 19
+    }
+  },
+  {
+    "customer": {
+      "name": "ANNA",
+      "surname": "GOLABEK",
+      "age": 23,
+      "email": "qkxc@onet.pl"
+    },
+    "product": {
+      "name": "APARAT",
+      "price": 2627,
+      "category": "A"
+    },
+    "quantity": 3,
+    "orderDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 30
+    }
+  },
+  {
+    "customer": {
+      "name": "ANNA",
+      "surname": "DOKTOR",
+      "age": 37,
+      "email": "trncp@onet.pl"
+    },
+    "product": {
+      "name": "APARAT",
+      "price": 1657,
+      "category": "C"
+    },
+    "quantity": 1,
+    "orderDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 2
+    }
+  },
+  {
+    "customer": {
+      "name": "MATEUSZ",
+      "surname": "GENIUSZ",
+      "age": 33,
+      "email": "w@o2.pl"
+    },
+    "product": {
+      "name": "RADIO",
+      "price": 762,
+      "category": "A"
+    },
+    "quantity": 3,
+    "orderDate": {
+      "year": 2019,
+      "month": 9,
+      "day": 25
+    }
+  },
+  {
+    "customer": {
+      "name": "RADOSLAW",
+      "surname": "GRUSZKA",
+      "age": 62,
+      "email": "h@interia.pl"
+    },
+    "product": {
+      "name": "PC",
+      "price": 3384,
+      "category": "B"
+    },
+    "quantity": 1,
+    "orderDate": {
+      "year": 2019,
+      "month": 9,
+      "day": 5
+    }
+  },
+  {
+    "customer": {
+      "name": "MARCIN",
+      "surname": "NOWAK",
+      "age": 52,
+      "email": "gpy@onet.pl"
+    },
+    "product": {
+      "name": "RADIO",
+      "price": 1272,
+      "category": "C"
+    },
+    "quantity": 2,
+    "orderDate": {
+      "year": 2019,
+      "month": 9,
+      "day": 1
+    }
+  },
+  {
+    "customer": {
+      "name": "STASIO",
+      "surname": "PAPLA",
+      "age": 21,
+      "email": "gbs@onet.pl"
+    },
+    "product": {
+      "name": "KAMERA",
+      "price": 345,
+      "category": "A"
+    },
+    "quantity": 1,
+    "orderDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 6
+    }
+  },
+  {
+    "customer": {
+      "name": "MALGORZATA",
+      "surname": "GOLABEK",
+      "age": 47,
+      "email": "xz@interia.pl"
+    },
+    "product": {
+      "name": "KAMERA",
+      "price": 2674,
+      "category": "C"
+    },
+    "quantity": 2,
+    "orderDate": {
+      "year": 2019,
+      "month": 8,
+      "day": 24
+    }
+  },
+  {
+    "customer": {
+      "name": "MALGORZATA",
+      "surname": "PAPLA",
+      "age": 36,
+      "email": "bw@interia.pl"
+    },
+    "product": {
+      "name": "APARAT",
+      "price": 3177,
+      "category": "C"
+    },
+    "quantity": 2,
+    "orderDate": {
+      "year": 2019,
+      "month": 9,
+      "day": 1
+    }
+  },
+  {
+    "customer": {
+      "name": "MATEUSZ",
+      "surname": "PAWLAK",
+      "age": 53,
+      "email": "l@o2.pl"
+    },
+    "product": {
+      "name": "APARAT",
+      "price": 1299,
+      "category": "B"
+    },
+    "quantity": 1,
+    "orderDate": {
+      "year": 2019,
+      "month": 10,
+      "day": 19
+    }
+  }
+]
